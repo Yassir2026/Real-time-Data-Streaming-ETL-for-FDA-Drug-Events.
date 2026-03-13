@@ -2,7 +2,7 @@
 
 A comprehensive real-time data streaming and ETL (Extract, Transform, Load) system built on AWS platform for processing and analyzing FDA drug event data from the Open FDA API.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Architecture](#architecture)
