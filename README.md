@@ -14,7 +14,7 @@ A comprehensive real-time data streaming and ETL (Extract, Transform, Load) syst
 - [Usage](#usage)
 - [Visualization](#visualization)
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project is designed to process real-time FDA drug event data from the Open FDA API and transform it into a structured format for analysis and visualization. The system ingests data, processes it through multiple stages, stores it in a data warehouse, and provides insights through visual dashboards.
 
@@ -27,7 +27,7 @@ This project is designed to process real-time FDA drug event data from the Open 
 - **Data Visualization**: Provides dashboards using AWS QuickSight
 - **Automated Pipeline**: Fully automated ETL pipeline with monitoring
 
-## 🏗️ Architecture
+##  Architecture
 
 The system follows a microservices architecture with the following components:
 
@@ -67,7 +67,7 @@ The system follows a microservices architecture with the following components:
    - SQL queries for data analysis
    - Dashboards for monitoring and insights
 
-## 🔄 Data Flow
+##  Data Flow
 
 ```mermaid
 graph TD
@@ -105,7 +105,7 @@ graph TD
 | **Visualization** | AWS QuickSight | Data visualization and dashboards |
 | **Language** | Python 3.x | Lambda function implementation |
 
-## 📊 Database Schema
+##  Database Schema
 
 ### Entity Relationship Diagram (ERD)
 
